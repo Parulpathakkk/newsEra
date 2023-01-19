@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/newsEra/static/js/main.6b2c8c96.js",
+    "static/media/loading.gif": "/newsEra/static/media/loading.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/newsEra/index.html",
+    "main.6b2c8c96.js.map": "/newsEra/static/js/main.6b2c8c96.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6b2c8c96.js"
+  ]
+}
