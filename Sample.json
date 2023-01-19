@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": null,
+      "title": "Aussie stars’ friendship before wild clash",
+      "description": "Karl Stefanovic and Michael Clarke were long-term mates way before the cricket legend got together with the TV star&rsquo;s sister-in-law.",
+      "url": "https://www.news.com.au/sport/cricket/inside-karl-stefanovic-and-michael-clarkes-friendship-before-clash/news-story/111fd07946710825c235ac1b0a24c53c",
+      "urlToImage": "https://content.api.news/v3/images/bin/1f1289328fde86f10e9e0f1ef626a385",
+      "publishedAt": "2023-01-18T09:24:00Z",
+      "content": "Karl Stefanovic and Michael Clarke were long-term mates way before the cricket legend got together with the TV star’s sister-in-law.\r\nBut what remains of the close bond is yet to be seen following th… [+2953 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": null,
+      "title": "Clarke, Karl in clash over cheating claims",
+      "description": "  class=\"story-block__standfirst\">Australian cricket legend Michael Clarke and Today Show host Karl Stefanovic have squared off in a wild fracas in a public park, in which Clarke was slapped across the face by his girlfriend and accused of cheating.",
+      "url": "https://www.news.com.au/sport/sports-life/michael-clarke-and-karl-stefanovic-clash-in-altercation-over-cheating-claims/news-story/ca08648db97539cb1a66f9bb72d3bc50",
+      "urlToImage": "https://content.api.news/v3/images/bin/7a936231ba39680491357b36a5190e98",
+      "publishedAt": "2023-01-18T07:47:00Z",
+      "content": "Australian cricket legend Michael Clarke and Today Show host Karl Stefanovic have squared off in a wild fracas in a public park, in which Clarke was slapped across the face by his girlfriend and accu… [+2847 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
